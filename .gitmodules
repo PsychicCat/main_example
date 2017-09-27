@@ -1,0 +1,3 @@
+[submodule "src/app/services"]
+	path = src/app/services
+	url = https://github.com/PsychicCat/shared_example
